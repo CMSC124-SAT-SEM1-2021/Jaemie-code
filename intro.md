@@ -1,0 +1,2 @@
+Hi, I'm Jaemie Mirabelle L. Campo from Caloocan City.
+I choose BS Computer Science because I like it, and it's something doable for me. I also think that taking a computer-related course runs in our blood haha. 
