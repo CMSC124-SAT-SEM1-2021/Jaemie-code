@@ -1,2 +1,3 @@
 Hi, I'm Jaemie Mirabelle L. Campo from Caloocan City.
 I choose BS Computer Science because I like it, and it's something doable for me. I also think that taking a computer-related course runs in our blood haha. 
+I wanted to explore web security, or cybersecurity in general, at first, but as I read through it, I think it is very stressful and it's easier to be a black hat rather than a white hat. I am more interested in computer systems and networks, analysis and other areas of computer science that solves problems rather than the creative part (i.e., web design/ game development... because I lack the talent :D ).
